@@ -16,7 +16,6 @@ I'm not fucking around
 
 ```terminal
 ping -t 192.168.0.2
-
 ```
 ## Lessons Learned
 
