@@ -1,16 +1,28 @@
-### Hi there 👋
+# Hi, I'm Nio Nash
 
-<!--
-**Gotzya/Gotzya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+um
 
-Here are some ideas to get you started:
+## Features
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Complete BS
+- Caralas are cool
+- 
+- lorem ipsum
+
+
+## I know who you are
+
+I'm not fucking around
+
+```terminal
+ping -t 192.168.0.2
+
+```
+## Lessons Learned
+
+Never trust a fart
+
+
+## Feedback
+
+If you have any feedback, please reach out to me on [Facebook](https://twitter.com/pizzahut?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor), [Twitter](https://www.facebook.com/profile.php?id=100076725604281), or check out my [website](https://nionash.netlify.app/)
